@@ -7,7 +7,7 @@ body {
 }
 
 /* heading */
-@media (min-width: 700px) {
+@media (min-width: 380px) {
   .head-session {
     width: 50%;
     float: left;
@@ -26,7 +26,7 @@ body {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 380px) {
   .head-session {
     padding: 5%;
     text-align: center;
@@ -44,7 +44,7 @@ body {
 }
 
 /* ratings */
-@media (min-width : 700px) {
+@media (min-width : 380px) {
   .rating-session {
     padding-top: 7%;
     padding-left: 50%;
@@ -80,7 +80,7 @@ body {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 380px) {
   .rating-session {
     padding: 5%;
     text-align: center;
@@ -106,7 +106,7 @@ body {
 }
 
 /* reviews */
-@media (min-width: 700px) {
+@media (min-width: 380px) {
   .review-session {
     clear: both;
     padding: 5% 5%;
@@ -158,7 +158,7 @@ body {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 380px) {
   .review-session {
     padding: 5%;
   }
